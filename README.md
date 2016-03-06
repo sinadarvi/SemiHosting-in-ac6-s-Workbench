@@ -1,2 +1,2 @@
-# SemiHosting-in-ac6-s-Workbench
+# SemiHosting_ac6_Workbench
 using printf() and scanf() function without any interface!!
