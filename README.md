@@ -27,4 +27,5 @@ and then your result would be like this :
 ![scanf](https://github.com/sinadarvi/SemiHosting_ac6_Workbench/blob/master/semihosting_scanf.jpg)
 
 here we are !! and you can see this is very easy but so helpful...
+Come and visit our [site](http://www.r2t.ir/) :)
 Have Good Day ;)
